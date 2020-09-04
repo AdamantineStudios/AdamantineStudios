@@ -36,6 +36,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='180' height='180' viewBo
 }
 
 section {
+  display: flex;
   min-height: 100vh;
   display: flex;
   justify-content: center;
